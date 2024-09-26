@@ -1,4 +1,4 @@
-module github.com/bruce4591/bitget-golang-sdk-api
+module bitget
 
 go 1.17
 
